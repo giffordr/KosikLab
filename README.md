@@ -1,4 +1,4 @@
-# KosikLab
+# Kosik Lab Data Processing Repo
 A repository to provide a home for, and to track changes to, data processing scripts in the Kosik lab.
 
 To clone this repository to your computer, open terminal (Mac) or command prompt (Windows) and type the following when in your directory of choice: ``` git clone https://github.com/giffordr/KosikLab.git ```
