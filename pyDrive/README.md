@@ -1,4 +1,4 @@
-# KosikLab
+# PyDrive on CNSI Server to Mount your Google Drive
 
 This folder can be used to help mount a Google Drive to the CNSI server, to work with files from, or export to, your Google Drive.
 
@@ -8,7 +8,7 @@ We will use pydrive and Google Drive API to make this happen. You will first wan
 
 Check to make sure that pydrive is installed correctly. One way to do that is run open ipython and test importing from pydrive:
 
-``` python ```
+``` python ``` <br />
 ``` from pydrive.auth import GoogleAuth ```
 
 If no error message is thrown. Then you should be good to go.
